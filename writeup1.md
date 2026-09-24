@@ -1,5 +1,4 @@
-# CTF Bugku滑稽 
-题目信息
+# [CTF Bugku]滑稽 
  
 题目名称：滑稽
 分类：Web
