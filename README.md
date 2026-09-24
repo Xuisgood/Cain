@@ -1,4 +1,7 @@
-# Cain的[CTF BugKu]靶场writeups
+# Cain的[CTF BugKu]writeups
+
+#欢迎查看我的博客
+
 ##题目列表
 -[点击查看我的第一个帖子](post1.md)
 -[writeup1  滑稽](writeup1.md)
