@@ -10,3 +10,4 @@
 -[writeup4  你必须让他停下](writeup4.md)
 -[writeup5  头等舱](writeup5.md)
 -[writeup6  GET](writeup6.md)
+-[writeup7  POST](write7.md)
