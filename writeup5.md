@@ -1,4 +1,5 @@
-# CTF BugKu头等舱
+# [CTF BugKu]头等舱
+
 题目名称：头等舱
  
 题目分类：Web
