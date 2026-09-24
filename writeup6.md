@@ -1,4 +1,5 @@
-# CTF BugKu GET
+# [CTF BugKu]GET
+
 一、题目信息
  
 题目名称：GET
