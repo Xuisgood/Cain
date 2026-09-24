@@ -1,4 +1,5 @@
-#CTF Bugku.alert
+#[CTF Bugku]alert
+
 题目名称：alert
  
 题目分类：Web
