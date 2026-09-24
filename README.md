@@ -11,3 +11,7 @@
 -[writeup5  头等舱](writeup5.md)
 -[writeup6  GET](writeup6.md)
 -[writeup7  POST](write7.md)
+-[writeup8  这是一张单纯的图片](writeup8.md)
+-[writeup9  /.-](writeup9.md)
+-[writeup10  聪明的小羊](writeup10.md)
+-[writeup11  + —<>](writeup11.md)
