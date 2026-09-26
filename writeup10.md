@@ -1,4 +1,4 @@
-#[CTF BugKu]聪明的小羊
+# [CTF BugKu]聪明的小羊
 
 一、题目信息
  
