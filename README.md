@@ -1,8 +1,21 @@
 # Cain的[CTF BugKu]writeups
 
 #欢迎查看我的博客
+---
+layout: default
+---
 
-##题目列表
+<div style="background-color:red;color:white;font-size:28px;font-weight:bold;padding:4px;">
+I'm here, ready for the Cybersecurity world
+</div>
+
+# 文章列表
+{% for post in site.posts %}
+{{ post.date | date: "%b %d, %Y" }}
+
+[{{ post.title }}]({{ post.url }})
+
+{% endfor %}
 -[点击查看我的第一个帖子](post1.md)
 
 -[writeup1  滑稽](writeup1.md)
