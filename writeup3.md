@@ -1,4 +1,4 @@
-#[CTF Bugku]alert
+# [CTF Bugku]alert
 
 题目名称：alert
  
