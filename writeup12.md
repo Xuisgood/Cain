@@ -1,4 +1,4 @@
-#[CTF BugKu]ok
+# [CTF BugKu]ok
 
 一、题目简介
 
