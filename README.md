@@ -28,4 +28,3 @@
 
 ## [BugKu CTF  +-<> writeup](writeup11.md)
 
-## [BugKu CTF  ok writeup](writeup12.md)
