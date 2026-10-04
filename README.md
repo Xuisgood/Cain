@@ -28,3 +28,17 @@
 
 ## [BugKu CTF  +-<> writeup](writeup11.md)
 
+## [BugKu CTF ok writeup](writeup12.md)
+
+## [BugKu CTF 富强民主 writeup](writeup13.md)
+
+## [BugKu CTF 散乱的密文 writeup](writeup14.md)
+
+## [BugKu CTF .!? writeup](writeup15.md)
+
+## [BugKu CTF 贝斯家族 writeup](writeup16.md)
+
+## [BugKu CTF 把猪困在猪圈里 writeup](writeup17.md)
+
+## [BugKu CTF 眼见非实 writeup](writeup18.md)
+
