@@ -44,25 +44,25 @@
 
 ## [BugKu CTF  这不是md5 writeup](writeup19.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  隐写](writeup20.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  linux]((writeup21.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  矛盾]((writeup22.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  telnet]((writeup23.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  你以为是md5吗]((writeup24.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  easy_hash]((writeup25.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  easy_crypto]((writeup26.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  变量1]((writeup27.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  一段新闻]((writeup28.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  来自宇宙的信号]((writeup29.md)
 
-## [BugKu CTF  ]()
+## [BugKu CTF  隐写3]((writeup30.md)
 
