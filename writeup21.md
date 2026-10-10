@@ -1,11 +1,9 @@
-# Bugku CTF - linux Writeup
+# [CTF BugKu] linux
 
 ## 题目信息
 - 题目名称：linux
 - 
 - 分类：MISC
-- 
-- 分值：15
 - 
 - 作者：harry
 - 
